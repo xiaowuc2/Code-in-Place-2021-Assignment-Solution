@@ -19,6 +19,8 @@
 
 ```diff
 
-Code in Place is an act of community service over 900 teachers from around the world came together to offer a first-of-its-kind volunteer-led course called Code in Place, hosted by Stanford University. Code in Place was a great, uplifting, learning experience and over 10,000 students learned how to code in python
+Code in Place is an act of community service over 900 teachers from around the world came together to offer a first-of-its-kind 
+volunteer-led course called Code in Place, hosted by Stanford University. Code in Place was a great, uplifting, learning experience 
+and over 10,000 students learned how to code in python
 
 ```
