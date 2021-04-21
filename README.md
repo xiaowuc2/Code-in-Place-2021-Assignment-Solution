@@ -22,3 +22,40 @@ Code in Place was a great, uplifting, learning experience and over 10,000 studen
 in Python.
 
 ```
+
+### README
+```
+📑 If you think this project has helped you learn something new you can give a star 
+📑 If you think it's a bad project do point out 'why' and spam the issue section 🚩 
+```
+
+<br>
+</br>
+
+### Contributing
+
+Any kind of contributions to `qxreseach/Simple-Harmonic-Motion` are welcome. While creating an issue(for this project) use `Request-Feature` Label.
+
+1. [Fork](https://github.com/qxresearch/Simple-Harmonic-Motion/fork) the Project
+2. Commit your Changes
+3. Open a [Pull Request](https://github.com/qxresearch/Simple-Harmonic-Motion/pulls)
+
+### Become Official Member @qxresearch
+
+* Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
+* Join Telegram Group [@qxresearch](https://t.me/qxresearch)
+* <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
+
+
+<h3 align="center"></h3>
+
+  <p align="center">
+    <br>
+    <br/>
+    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">Request Demo</a>
+    ·
+    <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/issues">Request Feature</a>
+  </p>
+</p>
