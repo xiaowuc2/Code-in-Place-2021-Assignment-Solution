@@ -22,7 +22,7 @@ Code in Place was a great, uplifting, learning experience and over 10,000 studen
 in Python.
 
 ```
-### Assignment Solution- Code + Video Explanation
+### Assignment Solution: Code + Video Explanation
 
 - Assignment-1 : [Code]() | [Video]()
 - Assignment-2 : [Code]() | [Video]()
