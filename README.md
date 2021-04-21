@@ -22,6 +22,11 @@ Code in Place was a great, uplifting, learning experience and over 10,000 studen
 in Python.
 
 ```
+### Video Explanation 
+
+- [Assignment-1]()
+- [Assignment-2]()
+
 
 ### README
 ```
