@@ -29,9 +29,6 @@ in Python.
 📑 If you think it's a bad project do point out 'why' and spam the issue section 🚩 
 ```
 
-<br>
-</br>
-
 ### Contributing
 
 Any kind of contributions to `qxreseach/Simple-Harmonic-Motion` are welcome. While creating an issue(for this project) use `Request-Feature` Label.
