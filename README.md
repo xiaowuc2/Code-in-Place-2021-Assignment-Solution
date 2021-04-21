@@ -36,11 +36,11 @@ in Python.
 
 ### Contributing
 
-Any kind of contributions to `qxreseach/Simple-Harmonic-Motion` are welcome. While creating an issue(for this project) use `Request-Feature` Label.
+Any kind of contributions to `xiaowuc2/Code-in-Place-2021-Assignment-Solution` are welcome. While creating an issue(for this project) use `Request-Feature` Label.
 
-1. [Fork](https://github.com/qxresearch/Simple-Harmonic-Motion/fork) the Project
+1. [Fork](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/fork) the Project
 2. Commit your Changes
-3. Open a [Pull Request](https://github.com/qxresearch/Simple-Harmonic-Motion/pulls)
+3. Open a [Pull Request](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/pulls)
 
 ### Become Official Member @qxresearch
 
