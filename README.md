@@ -25,13 +25,10 @@ in Python.
 
 ### Assignment Questions
 - [Assignment-1](https://edstem.org/us/courses/10000/lessons/12423/slides/63898)
-- [Assignment-2]()
 
 ### Assignment Solution: Code + Video Explanation
 
 - Assignment-1 : [Code]() | [Video]()
-- Assignment-2 : [Code]() | [Video]()
-
 
 ### README
 ```
