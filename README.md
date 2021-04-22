@@ -28,7 +28,7 @@ in Python.
 
 ### Assignment Solution
 
-- Assignment-1 : [Code]() | [Video]()
+- Assignment-1 : [Code]() | [Video Explanation]()
 
 ### README
 ```
