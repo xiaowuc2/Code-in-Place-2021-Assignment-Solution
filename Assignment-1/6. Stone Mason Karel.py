@@ -1,6 +1,8 @@
 from karel.stanfordkarel import *
 
 def main():
+    if no_beepers_present():
+        put_beeper()
     while front_is_clear():
         turn_left()
         while front_is_clear():
@@ -23,13 +25,10 @@ def main():
                 put_beeper()
         move()
     turn_right()
-
-
+    turn_right()
 def turn_right():
     for i in range(3):
         turn_left()
 
-
-
 if __name__ == '__main__':
-    run_karel_program('SampleQuad3.w')
+    run_karel_program('SampleQuad1.w')
