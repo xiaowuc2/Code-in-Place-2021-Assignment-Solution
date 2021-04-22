@@ -26,7 +26,7 @@ in Python.
 ### Assignment Questions
 - [Assignment-1](https://edstem.org/us/courses/10000/lessons/12423/slides/63898)
 
-### Assignment Solution: Code + Video Explanation
+### Assignment Solution
 
 - Assignment-1 : [Code]() | [Video]()
 
