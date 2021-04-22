@@ -49,17 +49,3 @@ Any kind of contributions to `xiaowuc2/Code-in-Place-2021-Assignment-Solution` a
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
 * Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 * <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
-
-
-<h3 align="center"></h3>
-
-  <p align="center">
-    <br>
-    <br/>
-    <a href="https://www.youtube.com/channel/UCX7oe66V8zyFpAJyMfPL9VA">Request Demo</a>
-    ·
-    <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/qxresearch/Simple-Harmonic-Motion/issues">Request Feature</a>
-  </p>
-</p>
