@@ -28,7 +28,7 @@ in Python.
 
 ### Assignment Solution
 
-- Assignment-1 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-1) | [Video Explanation]()
+- Assignment-1 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-1) | [Video Explanation](https://youtu.be/5JpVuQNYoho)
 
 ### README
 ```
