@@ -5,7 +5,6 @@ prompts the user for their name and then says hello to them! An example run of t
 $ python hello.py
 What is your name? Karel 
 Hello Karel!
-
 """
 
 def main():
