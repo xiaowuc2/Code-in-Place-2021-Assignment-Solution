@@ -1,6 +1,7 @@
 ### Code in Place 2021 Assignment 2 Solution
-
+```
 If this repository helped you please give a star and encourage me to solve other problems too.
+```
 
 <p align="center">
   <a href="https://qxresearch.github.io/qxresearch">
