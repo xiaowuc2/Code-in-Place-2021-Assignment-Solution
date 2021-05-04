@@ -23,18 +23,16 @@ in Python.
 
 ```
 
-### Assignment Questions
-- [Assignment-1](https://edstem.org/us/courses/10000/lessons/12423/slides/63898)
+### README
+```
+📑 If you think this repository has helped you learn something new you can give a star ⭐ 
+📑 If you think it's a bad project do point out 'why' and spam the issue section 🚩 
+```
 
 ### Assignment Solution
 
 - Assignment-1 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-1) | [Video Explanation](https://youtu.be/5JpVuQNYoho)
-
-### README
-```
-📑 If you think this repository has helped you learn something new you can give a star 
-📑 If you think it's a bad project do point out 'why' and spam the issue section 🚩 
-```
+- Assignemnt-2 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assigment-2) | [Video Explanation]()
 
 ### Contributing
 
