@@ -3,7 +3,6 @@
     <img width="200px" src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/82601797.png" alt="Logo">
   </a>
   <h3 align="center">Code in Place 2021 Solution</h3>
-
   <p align="center">
   </p>
 </p>
