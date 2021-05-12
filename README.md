@@ -42,8 +42,9 @@ Any kind of contributions to `xiaowuc2/Code-in-Place-2021-Assignment-Solution` a
 2. Commit your Changes
 3. Open a [Pull Request](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/pulls)
 
-### Become Official Member [@qxresearch](www.github.com/qxresearch)
+### Become Official Member @qxresearch
 
+* [qxresearch](www.github.com/qxresearch) 
 * Join Mozilla Group [@qxresearch](https://community.mozilla.org/en/groups/qx-research/)
 * Join Telegram Group [@qxresearch](https://t.me/qxresearch)
 * <a href = "mailto: rohitmandal814566@gmail.com">email</a> me your GitHub id (**subject**: GitHub id @qxresearch)
