@@ -30,5 +30,28 @@ Here is what the output looks like when MAX_NUMBER = 100
 ```
 
 - []
+```
+Write a program that has Karel draw four small "waves". Each wave is a triangle made up of three beepers. There is a gap between each wave.
+
+This is the state of Karel's world when Karel starts:
+
+Karel is in an empty world which is 11 corners wide and 5 corners tall. Karel is on the first row, first column, facing east
+This is state of Karel's world when Karel has finished making waves!
+
+karel is on the first row, last column, facing east. The world has four waves. Each wave is made up of a column with one beeper, followed by a column of two beepers. There is a blank corner between each of the waves.
+
+A few notes
+Karel always begins at the bottom left corner of the world, facing East
+
+Karel's bag has infinite beepers.
+
+It does not matter which direction Karel ends up facing.
+
+You may assume that the world is always exactly 11 columns wide and 5 columns tall. Your program only needs to work for this sized world.
+
+We've provided you implementations of the turn_right and turn_around functions, although you aren't required to use either of them.
+
+You must not use any non-Karel features like variables, return or break. You may use any Karel features described in the course reader.
+```
 - []
 - []
