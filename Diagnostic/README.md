@@ -29,7 +29,7 @@ Here is what the output looks like when MAX_NUMBER = 100
 
 ```
 
-- []
+- [Karel Makes Waves]
 ```
 Write a program that has Karel draw four small "waves". Each wave is a triangle made up of three beepers. There is a gap between each wave.
 
