@@ -1,4 +1,4 @@
-- [Astronaut Height Test]()
+- [Astronaut Height Test](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/blob/main/Diagnostic/1.%20Astronaut%20Height%20Test.py)
 ```
   Write a program which asks the user for their height in meters and prints whether or not they are the correct height to be a NASA astronaut.
   If their height is between 1.6 meters and 1.9 meters, print "Correct height to be an astronaut".
@@ -19,7 +19,7 @@
 
   Aside: If you are not the right height to be an astronaut, that is fine! Space is dangerous anyways. Chris is not the right height, but found a happy alternative job here on earth 🌱. 
 ```
-- [Even Odd Table]()
+- [Even Odd Table](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/blob/main/Diagnostic/2.%20Even%20Odd%20Table.py)
 ```
 Print out each of the numbers 1 through 100 and whether that number is even or odd. 
 
@@ -29,7 +29,7 @@ Here is what the output looks like when MAX_NUMBER = 100
 
 ```
 
-- [Karel Makes Waves]()
+- [Karel Makes Waves](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/blob/main/Diagnostic/3.%20Karel%20Makes%20Waves.py)
 ```
 Write a program that has Karel draw four small "waves". Each wave is a triangle made up of three beepers. There is a gap between each wave.
 
@@ -53,7 +53,7 @@ We've provided you implementations of the turn_right and turn_around functions, 
 
 You must not use any non-Karel features like variables, return or break. You may use any Karel features described in the course reader.
 ```
-- [Nondecreasing]()
+- [Nondecreasing](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/blob/main/Diagnostic/4.%20Nondecreasing.py)
 
 ```
 A simple way to achieve great things in life is to make small forward progress every day. Non-decreasing progress is one of the principles behind modern AI.
@@ -118,7 +118,7 @@ Enter num: -6
 Thanks for playing!
 Sequence length: 3
 ```
-- [Debugging & Tracing]()
+- [Debugging & Tracing](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/blob/main/Diagnostic/5.%20Debugging%20%26%20Tracing.py)
 
 ```
 Consider the following buggy code: 
