@@ -119,3 +119,42 @@ Thanks for playing!
 Sequence length: 3
 ```
 - []()
+
+```
+Consider the following buggy code: 
+def divide_and_round(n):
+    """
+    Divides an integer n by 2 and rounds 
+    up to the nearest whole number
+    """
+    if n % 2 == 0:
+        n = n / 2
+    else:
+        n = (n + 1) / 2
+
+def main():
+    n = 10
+    divide_and_round(n)
+    print(n)  # should print 5
+
+if __name__ == "__main__":
+    main()
+
+def divide_and_round(n):
+    """
+    Divides an integer n by 2 and rounds 
+    up to the nearest whole number
+    """
+    if n % 2 == 0:
+        n = n / 2
+    else:
+        n = (n + 1) / 2
+
+
+
+Part A
+What will be printed at the end of this program? Why?
+
+Part B
+How can this program be fixed so that it does what it is meant to? You can make changes to both divide_and_round and main, but divide_and_round must implement the functionality described in its comment for all possible values of its parameter. You should write a fixed version of the program with comments indicating each line you changed.
+```
