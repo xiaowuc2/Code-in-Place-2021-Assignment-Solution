@@ -32,7 +32,7 @@ in Python.
 
 - Assignment-1 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-1) | [Video Explanation](https://youtu.be/5JpVuQNYoho)
 - Assignemnt-2 : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Assignment-2) | [Video Explanation](https://youtu.be/0IURrcpNZmk)
-- Diagnostic : [Code]()
+- Diagnostic : [Code](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/tree/main/Diagnostic) | [Video Explanation]()
 
 ### Contributing
 
