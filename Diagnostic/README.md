@@ -118,7 +118,7 @@ Enter num: -6
 Thanks for playing!
 Sequence length: 3
 ```
-- []()
+- [Debugging & Tracing]()
 
 ```
 Consider the following buggy code: 
