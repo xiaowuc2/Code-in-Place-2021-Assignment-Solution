@@ -29,7 +29,7 @@ Here is what the output looks like when MAX_NUMBER = 100
 
 ```
 
-- [Karel Makes Waves]
+- [Karel Makes Waves]()
 ```
 Write a program that has Karel draw four small "waves". Each wave is a triangle made up of three beepers. There is a gap between each wave.
 
@@ -53,5 +53,5 @@ We've provided you implementations of the turn_right and turn_around functions, 
 
 You must not use any non-Karel features like variables, return or break. You may use any Karel features described in the course reader.
 ```
-- []
-- []
+- []()
+- []()
