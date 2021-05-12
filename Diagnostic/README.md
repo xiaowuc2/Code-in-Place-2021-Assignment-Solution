@@ -1,3 +1,22 @@
+### Code in Place 2021 Diagnostic Solution
+```
+If this repository helped you please give a star ⭐ and encourage me to solve other problems too.
+```
+
+Video Explanation : https://youtu.be/0IURrcpNZmk
+
+<p align="center">
+  <a href="https://youtu.be/0IURrcpNZmk">
+    <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/ranger-1/youtube%20diagnostic.png" alt="Logo">
+  </a>
+
+  <h3 align="center">by @xiaowuc2</h3>
+
+  <p align="center">
+  </p>
+</p>
+
+
 - [Astronaut Height Test](https://github.com/xiaowuc2/Code-in-Place-2021-Assignment-Solution/blob/main/Diagnostic/1.%20Astronaut%20Height%20Test.py)
 ```
   Write a program which asks the user for their height in meters and prints whether or not they are the correct height to be a NASA astronaut.
