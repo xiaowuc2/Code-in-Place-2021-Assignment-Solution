@@ -3,7 +3,7 @@
 If this repository helped you please give a star ⭐ and encourage me to solve other problems too.
 ``` 
 
-Video Explanation : https://youtu.be/0IURrcpNZmk
+Video Explanation : https://youtu.be/u8uqTBNZvAY
 
 <p align="center">
   <a href="https://youtu.be/0IURrcpNZmk">
