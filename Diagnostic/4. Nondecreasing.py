@@ -4,7 +4,7 @@ def main():
     print("Enter a sequence of non-decreasing numbers.")
     g=float(input("Enter num: "))
     a. append(g)
-    for i in range(10):
+    for i in range(100):
         c=float(input("Enter num: "))
         a.append(c)
         if a[-2]>a[-1]:
