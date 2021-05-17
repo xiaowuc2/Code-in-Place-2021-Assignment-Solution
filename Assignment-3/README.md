@@ -10,7 +10,7 @@ Video Explanation : https://youtu.be/u8uqTBNZvAY
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/ranger-1/youtube%20diagnostic.png" alt="Logo">
   </a>
 
-  <h3 align="center">by[ @xiaowuc2](https://github.com/xiaowuc2)</h3>
+  <h3 align="center">by [@xiaowuc2](https://github.com/xiaowuc2)</h3>
 
   <p align="center">
   </p>
