@@ -3,10 +3,10 @@
 If this repository helped you please give a star ⭐ and encourage me to solve other problems too.
 ``` 
 
-Video Explanation : https://youtu.be/u8uqTBNZvAY
+Video Explanation : [Assignment-3](https://youtu.be/kj9wWXW_QL4)
 
 <p align="center">
-  <a href="https://youtu.be/0IURrcpNZmk">
+  <a href="https://youtu.be/kj9wWXW_QL4">
     <img src="https://github.com/xiaowuc2/xiaowuc2/blob/master/source/ranger-1/youtube%20diagnostic.png" alt="Logo">
   </a>
 
